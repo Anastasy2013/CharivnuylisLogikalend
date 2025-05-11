@@ -1,0 +1,60 @@
+h1{
+    color: rgb(5, 58, 28);
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: rgb(140, 204, 140);
+}
+img{
+    width:500px;
+    height: 400px;
+    display: inline-block;
+}
+p{
+    color: rgb(9, 56, 9);
+    font-family: initial;
+    font-size: 30px;
+     text-align: center;
+}
+h2{
+    color: rgb(0, 82, 0);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 45px;
+}
+main p{
+    color: rgb(51, 88, 13);
+    font-family: monospace;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 650px;
+    height: 500px;
+}
+footer p{
+    color: rgb(32, 131, 12) ;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+a {
+  color: red;
+  font-size: 29px;
+}
+
+a:hover {
+  color: rgb(98, 172, 1);
+}
+h3{
+    color: rgb(15, 160, 2);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
